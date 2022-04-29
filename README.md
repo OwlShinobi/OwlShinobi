@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+dungeon;TechII+Arcade+Technician;I+am+a+programmer)](https://git.io/typing-svg)
 
-### Hi there 👋
+### Language
+
 
 <!--
 **OwlShinobi/OwlShinobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
