@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <iframe src="https://giphy.com/embed/UoLt6Tm8wlSnWGfSFs" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/kodewithklossy-coding-klossy-karliekloss-UoLt6Tm8wlSnWGfSFs">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 
