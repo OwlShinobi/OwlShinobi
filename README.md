@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/kodewithklossy-coding-klossy-karliekloss-UoLt6Tm8wlSnWGfSFs" width="100"/>
+  <img src="https://giphy.com/gifs/covid-yeremiaas-yeremiaadicipta-qX8pJY8ejpVtD8BNoP" width="100"/>
 </div>
 
 ### Hi there 👋
