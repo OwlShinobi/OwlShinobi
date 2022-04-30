@@ -1,3 +1,4 @@
+[![Header](https://raw.githubusercontent.com/OwlShinobi/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+dungeon!;Tech%20II+Arcade+Technician;I+am+a+programmer!)](https://git.io/typing-svg)
 
 ### Language
